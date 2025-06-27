@@ -44,4 +44,7 @@ java RadixSortTest
 
 ## Screenshot of Output
 
-![Program Output](Screenshots/Output.png)
+![Program Output](Screenshots/Output1.png)
+![Program Output](Screenshots/Output2.png)
+![Program Output](Screenshots/Output3.png)
+![Program Output](Screenshots/Output4.png)
